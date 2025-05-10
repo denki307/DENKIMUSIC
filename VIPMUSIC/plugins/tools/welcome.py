@@ -183,7 +183,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ❍ 𝐍ᴀᴍᴇ ➥  {user.mention}
 ❍ 𝐔sᴇʀɴᴀᴍᴇ ➥  @{user.username}
 ❍ 𝐔sᴇʀ 𝐈ᴅ ➥  {user.id}
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ➥ ๛[❤️‍🔥 • 𝛚𝛐𝛚 • ❤️‍🔥](https://t.me/ll_SARKAR_OWNER_ll)
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ➥ ๛[❤️‍🔥 • 𝛚𝛐𝛚 • ❤️‍🔥](https://t.me/OWNEROFTHEDENKI)
 ╚════════════════.✵.═╝
 """,
                 reply_markup=InlineKeyboardMarkup([
