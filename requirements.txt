@@ -29,7 +29,7 @@ speedtest-cli
 spotipy
 tgcrypto
 urllib3
-uvloop
+uvloop==0.21.0; sys_platform != "win32"
 flask
 gunicorn==20.1.0
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
